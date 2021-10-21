@@ -1,0 +1,27 @@
+body{
+    background-color: #44567c;
+    width: 100%;
+
+}.header{
+    background-color: #be3144;
+    height:50px;
+    width: 100%;
+}
+.line{
+  width: 35px;
+  height: 5px;
+  background-color: rgb(255, 255, 255);
+  margin: 6px 0;
+}
+.row1 {
+    display: flex;
+  }
+  
+.column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+.row2 {
+    display: flex;
+  }
+
